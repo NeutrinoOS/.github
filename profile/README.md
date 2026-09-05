@@ -6,6 +6,6 @@ handles representing different kinds of system objects, each with semantics appr
 interact with kernel managed objects, primarily hardware, which expose distinct operations and capabilities.
 
 ## AI disclosure
-Neutrino is centrally written by humans. While AI has been used to assist with prose such as READMEs and comments, as well as some code, all AI-generated content is thoroughly 
+Neutrino is centrally written by humans. While (predominantly local-model) AI has been used to assist with prose such as READMEs and comments, as well as some code, all AI-generated content is thoroughly 
 reviewed before commit. Code comments and READMEs are checked for correctness, and code is tested against emulation and, when possible, real hardware. AI in Neutrino's development 
 should be used as a tool, not a programmer.
